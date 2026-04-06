@@ -38,7 +38,7 @@ sca-mechanical-systems/
 ## Local Setup (Alternative)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sca-mechanical-systems.git
+git clone https://github.com/ramaraavi/sca-mechanical-systems.git
 cd sca-mechanical-systems
 pip install -r requirements.txt
 cd src
