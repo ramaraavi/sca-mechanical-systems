@@ -11,7 +11,6 @@ Click the badge below to open the notebook directly in Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramaraavi/sca-mechanical-systems/blob/main/SCA_Full_Project.ipynb)
 
-> Replace `YOUR_USERNAME` with your GitHub username after uploading.
 
 ---
 
