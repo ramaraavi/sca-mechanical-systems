@@ -1,0 +1,8 @@
+traces/
+results/
+plots/
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+.ipynb_checkpoints/
